@@ -1,8 +1,7 @@
-<!-- - 👋 Hi, I’m Souvik Das
+- 👋 Hi, I’m Souvik Das
 - 👀 I’m interested in BlockChain Development(dApps,deFi)
 - 🌱 I’m currently learning DSA & BlockChain Architecture
-- 💞️ I’m looking to collaborate on some cool projects on dApps
-- 📫 How to reach me? this is my email: souvikdas3327@gmail.com -->
+- 💞️ I’m looking to collaborate on some cool projects on dApps 
 
 ## 📱 Contact Me
 
