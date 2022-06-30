@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA & BlockChain Architecture
 - 💞️ I’m looking to collaborate on some cool projects on dApps -->
 
-## Hey buddy, Souvik Here 
+## Hey buddy, Souvik Here || Explorer & Coding Enthusiast
 
 ## 📱 Contact Me
 
