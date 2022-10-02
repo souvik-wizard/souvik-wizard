@@ -17,5 +17,5 @@
 </tr>
 </table>
 <p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=souvik-wizard&theme=tokiyonight"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=souvik-wizard&theme=tokyonight"/>
 </p>
