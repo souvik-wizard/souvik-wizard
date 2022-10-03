@@ -7,7 +7,7 @@
 
 
 ## 📈 Stats
-[![souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvik-wizard&theme=tokyonight)](https://github.com/souvik-wizard/github-readme-activity-graph)
+[![souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvik-wizard&theme=gotham)](https://github.com/souvik-wizard/github-readme-activity-graph)
 <table>
 <tr>
 <td>
