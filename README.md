@@ -1,5 +1,5 @@
 
-## Hey buddy, Souvik Here || Explorer & Coding Enthusiast || Loves to solve problems || Learning Web Development
+## Hey buddy, Souvik Here || Explorer & Coding Enthusiast || Loves to solve problems || Learning Web Development  
 
 ## 📱 Contact Me
 
