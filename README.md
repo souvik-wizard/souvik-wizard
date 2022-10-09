@@ -9,7 +9,7 @@
 ## 📈 Stats
 [![souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvik-wizard&theme=gotham)](https://github.com/souvik-wizard/github-readme-activity-graph)
 <table>
-<tr>
+<tr> 
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=souvik-wizard&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik-wizard&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
