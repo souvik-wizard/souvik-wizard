@@ -1,5 +1,5 @@
 
-## Hey buddy, Souvik Here || Explorer & Coding Enthusiast || Loves to solve problems || Cloud Computing Enthusiast  
+## Hey buddy, Souvik Here || Explorer & Coding Enthusiast || Loves to solve problems (IRL & IDE) || Cloud Computing Enthusiast  
 
 ## 📱 Contact Me   
 
